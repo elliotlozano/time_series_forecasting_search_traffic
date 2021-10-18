@@ -68,7 +68,7 @@ The following visuals help summarize the findings:
 `The forecasted area of this graph is all the way to the right where there are no black dots. The black dots represent actual data points so beyond that is our predicted trend (seen in blue), which seems to be decreasing slightly over the period.`
 
 ![Forecasting Quarterly Revenue](forecast_revenue.png)
-`It seems the company's revenue has increased steadily over the years. Using the same forecastig technique, I generated a plot that shows a prediction (past the black dots) for the next quarter revenue. The dark blue line in the middle is the expected revenue, while the light blue channel it's moving through shows the lower and maximum predicted revenues. The expected revenue was projected to be about 970 million dollars for the quarter!`
+`It seems the company's revenue has increased steadily over the years. Using the same forecasting technique, I generated a plot that shows a prediction (past the black dots) for the next quarter revenue. The dark blue line in the middle is the expected revenue, while the light blue channel it's moving through shows the lower and maximum predicted revenues. The expected revenue was projected to be about 970 million dollars for the quarter!`
 
 ---
 
